@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品经理简历"
+  short_description: "从真实项目证据提炼能力故事，生成产品经理简历母版与岗位定向版本"
+  default_prompt: "使用 $product-manager-resume 梳理我的项目证据，生成产品经理简历母版。"
